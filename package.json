@@ -1,0 +1,19 @@
+{
+    "name": "lodash.set",
+    "version": "4.3.3",
+    "description": "Drop-in update to \"lodash.set@4.3.2\" that fixes prototype pollution",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/minorbug/lodash-set.git"
+    },
+    "author": "Matt Baker",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/minorbug/lodash-set/issues"
+    },
+    "homepage": "https://github.com/minorbug/lodash-set#readme"
+  }  
